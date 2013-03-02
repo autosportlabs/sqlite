@@ -1,4 +1,12 @@
 eclipse.preferences.version=1
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.exe.debug.311162710.524333567.390804801/CPATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.exe.debug.311162710.524333567.390804801/CPATH/operation=remove
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.exe.debug.311162710.524333567.390804801/CPLUS_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.exe.debug.311162710.524333567.390804801/CPLUS_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.exe.debug.311162710.524333567.390804801/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.exe.debug.311162710.524333567.390804801/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.exe.debug.311162710.524333567.390804801/append=true
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.exe.debug.311162710.524333567.390804801/appendContributed=true
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.exe.debug.311162710.524333567/CPATH/delimiter=;
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.exe.debug.311162710.524333567/CPATH/operation=remove
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.exe.debug.311162710.524333567/CPLUS_INCLUDE_PATH/delimiter=;
